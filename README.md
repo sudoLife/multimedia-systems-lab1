@@ -15,4 +15,5 @@ or try a live example: https://jsbin.com/gejugat/edit?html,output
   - The player should be able to run "Big Bunny" video from this URL: https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8
   - Implement at least three features in the index.html (Play, Pause, Stop, Jump to 5 sec forward, Jump to 5 sec backward, Playlist, Shuffle).
   - Test player on at least two browsers and specify in README.md which version and browser it was.
+  - Additional features are welcome and bonuses are available.
   - To pass this lab, you have to complete at least two points from the requirement list.
